@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>電繪狂</title>
+  <title>Pin2D</title>
   
-  <subtitle>分享給喜愛動漫創作的人～</subtitle>
-  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://pin2d.com/"/>
+  <link href="/en/atom.xml" rel="self"/>
+  
+  <link href="http://pin2d.com/en/"/>
   <updated>2018-06-01T16:36:17.987Z</updated>
-  <id>http://pin2d.com/</id>
+  <id>http://pin2d.com/en/</id>
   
   <author>
-    <name>電繪狂</name>
+    <name>Pin2D</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>從點線面來思考構圖(1) - 點的位置</title>
-    <link href="http://pin2d.com/thesis/56199/"/>
-    <id>http://pin2d.com/thesis/56199/</id>
+    <link href="http://pin2d.com/en/thesis/56199/"/>
+    <id>http://pin2d.com/en/thesis/56199/</id>
     <published>2018-05-31T01:41:09.000Z</published>
     <updated>2018-06-01T16:36:17.987Z</updated>
     
@@ -31,16 +31,16 @@
     
     </summary>
     
-      <category term="畫技理論" scheme="http://pin2d.com/categories/%E7%95%AB%E6%8A%80%E7%90%86%E8%AB%96/"/>
+      <category term="畫技理論" scheme="http://pin2d.com/en/categories/%E7%95%AB%E6%8A%80%E7%90%86%E8%AB%96/"/>
     
     
-      <category term="動漫創作" scheme="http://pin2d.com/tags/%E5%8B%95%E6%BC%AB%E5%89%B5%E4%BD%9C/"/>
+      <category term="動漫創作" scheme="http://pin2d.com/en/tags/%E5%8B%95%E6%BC%AB%E5%89%B5%E4%BD%9C/"/>
     
-      <category term="繪圖理論" scheme="http://pin2d.com/tags/%E7%B9%AA%E5%9C%96%E7%90%86%E8%AB%96/"/>
+      <category term="系列研究" scheme="http://pin2d.com/en/tags/%E7%B3%BB%E5%88%97%E7%A0%94%E7%A9%B6/"/>
     
-      <category term="系列研究" scheme="http://pin2d.com/tags/%E7%B3%BB%E5%88%97%E7%A0%94%E7%A9%B6/"/>
+      <category term="繪圖理論" scheme="http://pin2d.com/en/tags/%E7%B9%AA%E5%9C%96%E7%90%86%E8%AB%96/"/>
     
-      <category term="構圖技巧" scheme="http://pin2d.com/tags/%E6%A7%8B%E5%9C%96%E6%8A%80%E5%B7%A7/"/>
+      <category term="構圖技巧" scheme="http://pin2d.com/en/tags/%E6%A7%8B%E5%9C%96%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
